@@ -1,1 +1,2 @@
-
+# STP - Segmentation, Targeting, and Positioning
+This folder contains case studies ...
