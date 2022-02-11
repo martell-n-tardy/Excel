@@ -1,5 +1,5 @@
 # Excel
-This repository contains links to mini-projects and exercises completed in the Microsoft Excel spreadsheet software program.
+This repository contains links to mini-projects and case studies completed in the Microsoft Excel spreadsheet software program.
 
 ## SKILLS
 ### STP - Segmentation, Targeting, and Positioning
