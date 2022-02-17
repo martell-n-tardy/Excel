@@ -6,4 +6,5 @@ This repository contains mini-projects and case studies showcasing my advanced k
 ## SKILLS
 ### STP - Segmentation, Targeting, and Positioning
 * **Pacific Brands:** A case group study on customer value and segementation analysis utilizing the Marketing Engineering application in Mircosoft Excel.
-  https://github.com/martell-n-tardy/Excel/tree/main/STP/Pacific%20Brands
+  https://github.com/martell-n-tardy/Excel/tree/main/Pacific%20Brands
+  
